@@ -1,0 +1,2 @@
+alert("homeeeee")
+alert('random')
